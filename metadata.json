@@ -1,0 +1,7 @@
+{
+  "name": "Genify",
+  "description": "An elite Multilingual RAG-based Startup Funding Intelligence System for the Indian ecosystem using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
